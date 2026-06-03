@@ -18,9 +18,6 @@ Firebase Cloud Messaging · Supabase · Provider · QR Flutter
 ## Built by
 4-member team — IV Semester B.Tech CSE project at SVPCET, Nagpur
 
-## Screenshots
-(Add screenshots of the app here)
-
 ## Setup
 1. Clone the repo
 2. Run `flutter pub get`
